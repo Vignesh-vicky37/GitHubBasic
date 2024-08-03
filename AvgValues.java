@@ -7,5 +7,6 @@ public static void main(String[] args) {
 	int avg;
 	avg=(a[0]+a[1]+a[2]+a[3]+a[4]+a[5]+a[6]+a[7]+a[8]+a[9])/a.length;
 	System.out.println("Avg value of given number is : "+ avg);
+	system.out.println("i love testing");
 }
 }
